@@ -1,0 +1,11 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+Sitemap: http://www.sealan.tech/sitemap.xml
+Sitemap: http://www.sealan.tech/baidusitemap.xml
